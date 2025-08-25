@@ -1,0 +1,17 @@
+{
+  "short_name": "Time Box",
+  "name": "Time Box Planner",
+  "description": "A daily planner application that you can install on your phone and PC for offline use.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f7fafc",
+  "scope": "/"
+}

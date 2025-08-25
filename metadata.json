@@ -1,0 +1,5 @@
+{
+  "name": "Time Box Planner",
+  "description": "A daily planner application based on the time box methodology. Organize your day, save your progress, and review past entries. Now installable as a Progressive Web App (PWA) for offline use on your phone and PC.",
+  "requestFramePermissions": []
+}
